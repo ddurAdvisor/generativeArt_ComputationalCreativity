@@ -1,6 +1,8 @@
 # generativeArt_ComputationalCreativity
 
 ### 4: Markov Chain
+[1-bit2atom_20211204a_markov_chain_3](https://github.com/ddurAdvisor/generativeArt_ComputationalCreativity/tree/main/MarkovChain/bit2atom_20211204a_markov_chain_3)
+![img](https://github.com/ddurAdvisor/generativeArt_ComputationalCreativity/blob/main/MarkovChain/images/MarkovChain.PNG)
 
 ### 5: Agent and MultiAgent
 [1-flock_CraigReynolds](https://github.com/ddurAdvisor/generativeArt_ComputationalCreativity/tree/main/Agent%26MultiAgents/flock_CraigReynolds)
